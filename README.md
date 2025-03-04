@@ -1,10 +1,10 @@
 # Web Development Project 1 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: Fatima Javid
 
-This web app: **insert description**
+This web app: This app links people to free resources and tools that they can leverage to build their coding skills.  
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
@@ -28,9 +28,6 @@ Here's a walkthrough of implemented required features:
 
 <img src='Web102Unit1.gif' width='' alt='Video Walkthrough' />
 
-## Notes
-
-This was very s
 
 ## License
 
